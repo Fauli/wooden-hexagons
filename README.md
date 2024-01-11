@@ -1,4 +1,20 @@
-# DIY Wooden Hexagons with WS2318 LED Lights Project
+# Wooden Hexagons LED Light Project
+
+- [Wooden Hexagons LED Light Project](#wooden-hexagons-led-light-project)
+  - [Introduction](#introduction)
+  - [Materials List](#materials-list)
+  - [Tools Required](#tools-required)
+  - [Size of the hexagon](#size-of-the-hexagon)
+  - [Construction Guide](#construction-guide)
+    - [Step 1: Designing the Hexagons](#step-1-designing-the-hexagons)
+    - [Step 2: Cutting the Wood](#step-2-cutting-the-wood)
+    - [Step 3: Assembling the Hexagon Frames](#step-3-assembling-the-hexagon-frames)
+    - [Step 4: Preparing the Backplate](#step-4-preparing-the-backplate)
+    - [Step 5: Putting it together](#step-5-putting-it-together)
+    - [Step 6: Attaching the LED Strip](#step-6-attaching-the-led-strip)
+    - [Step 7: Attach matte transparent paper](#step-7-attach-matte-transparent-paper)
+  - [In action](#in-action)
+
 
 ## Introduction
 This guide details how to create stunning wooden hexagons illuminated by WS2318 LED lights. Perfect for those with a passion for woodworking and electronics, these hexagons make for eye-catching decorative pieces. Using a miter saw set to a 30-degree angle, we'll craft precise hexagonal shapes and backlight them with vibrant LEDs.
