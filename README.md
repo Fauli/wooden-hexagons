@@ -17,10 +17,10 @@
 
 
 ## Introduction
-This guide details how to create wooden hexagons illuminated by WS2318 LED lights.
+This guide details how to create wooden hexagons illuminated by WS2812 LED lights.
 
 ## Materials List
-- WS2318 LED Strips
+- WS2812 LED Strips
 - Wooden planks (suitable for cutting into hexagons)
 - Miter saw (set to a 30-degree angle for cutting)
 - Wood glue (for assembling the hexagons)
@@ -99,7 +99,7 @@ Place the backplate onto the hexagon and use glue or screws to keep it in place.
 
 
 ### Step 6: Attaching the LED Strip
-Depending on how you want to attach the LED strip, cut the WS2318 LED strip to fit. I'm attacking them on the inside of the outer walls, close to the backplate.
+Depending on how you want to attach the LED strip, cut the WS2812 LED strip to fit. I'm attacking them on the inside of the outer walls, close to the backplate.
 
 ![hexagon-adding-lights](/images/hexagon-adding-lights.png)
 
