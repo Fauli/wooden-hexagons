@@ -17,7 +17,7 @@
 
 
 ## Introduction
-This guide details how to create stunning wooden hexagons illuminated by WS2318 LED lights. Perfect for those with a passion for woodworking and electronics, these hexagons make for eye-catching decorative pieces. Using a miter saw set to a 30-degree angle, we'll craft precise hexagonal shapes and backlight them with vibrant LEDs.
+This guide details how to create wooden hexagons illuminated by WS2318 LED lights.
 
 ## Materials List
 - WS2318 LED Strips
