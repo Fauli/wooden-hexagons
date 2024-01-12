@@ -27,8 +27,6 @@ This guide details how to create wooden hexagons illuminated by WS2812 LED light
 - Backplate material (e.g., thin plywood)
 - Soldering iron and solder
 - Wire (for connecting LED strips)
-- Power supply for LEDs
-- Microcontroller (e.g., Arduino)
 - Paint for wood (optional)
 
 ## Tools Required
@@ -55,23 +53,27 @@ Using the miter saw set to a 30-degree angle, cut your wooden planks into six eq
 
 To make is easier when cutting, use a piece of wood fixed to the miter saw as reference length.
 
-![miter-saw-length-fixture](/images/miter-saw-length-fixture.png)
+![miter-saw-length-fixture](/images/miter-saw-length-blocker-sides.jpg)
 
+![miter-saw-length-fixture](/images/miter-saw-beginning-sides.jpg)
 
-![miter-saw-cutting](/images/miter-saw-cutting.png)
+![miter-saw-cutting](/images/miter-saw-length-cutting.jpg)
 
 ### Step 3: Assembling the Hexagon Frames
 Place the pieces with the shorter side facing down next to each other. Use something like painters pasking tape to tape them together. Leave some of the tape hanging out at the end to hold the last part of the hexagon together later.
 
-![hexagon-tape](/images/hexagon-tape.png)
+![sides-prepared-taping](/images/sides-prepared-taping.jpg)
 
 Put glue in each of the connections as well as at the end.
 
-![hexagon-glue](/images/hexagon-glue.png)
+![sides-taped](/images/sides-taped.jpg)
 
 Fold the hexagon together and fix with the overhanging duct tape. Then let the glue dry with the tape on.
 
+![hexagon-taped](/images/sides-with-glue.jpg)
+
 ![hexagon-taped](/images/hexagon-taped.png)
+
 
 When the glue hardened, remove the tape.
 
@@ -89,7 +91,7 @@ Using a pencil, follow along the outer side of the hexagon.
 
 Cut the backplate. You can use another blocker on the miten saw to make the cutting process a lot easier.
 
-![hexagon-cutting](/images/backplate-cutting.png)
+![backplate-cutting](/images/backplate-cutting-with-template.jpg)
 
 ### Step 5: Putting it together
 
