@@ -97,13 +97,23 @@ Cut the backplate. You can use another blocker on the miten saw to make the cutt
 
 Place the backplate onto the hexagon and use glue or screws to keep it in place. In this case I used screws, but glue should be just as good.
 
-![hexagon-assembly](/images/backplate-assembly.png)
+![hexagon-assembly](/images/backplate-assembly.jpg)
 
+![hexagon-backplated](/images/backplate-added.jpg)
 
 ### Step 6: Attaching the LED Strip
 Depending on how you want to attach the LED strip, cut the WS2812 LED strip to fit. I'm attacking them on the inside of the outer walls, close to the backplate.
 
-![hexagon-adding-lights](/images/hexagon-adding-lights.png)
+In my case I had soldered a female 3-pin JST to the beginning of the strip and a male 3-pin JST to the end, so that I can easily chain multiple hexagons.
+
+I drilled a hold at the corner into the backplate and put the strip through it. Then used wood glue to glue it to the wall.
+
+![hexagon-adding-lights](/images/hexagon-adding-lights.jpg)
+
+To protect the cables from strain, I added hot glue into the drilling hole.
+
+![hexagon-adding-lights](/images/hexagon-hot-glue.jpg)
+
 
 For the cabling, I drilled a hole near one of the corners and pulled the strip through. Then I used some hot-glue from the inside to fix the cabling in case of strain.
 
@@ -111,7 +121,7 @@ For the cabling, I drilled a hole near one of the corners and pulled the strip t
 
 Attach the electronics to the lattice. Secure all components and tidy up the wiring.
 
-![TODO-added-matte-paper](/images/with-paper.png)
+![TODO-added-matte-paper](/images/with-paper.jpg)
 
 ## In action
 
